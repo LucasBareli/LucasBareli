@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer 18 years old Software Developer at Robert Bosch
+Software Developer 18 years old at Robert Bosch
 
 
 ## 🌐 Socials:
