@@ -5,8 +5,8 @@ Welcome to my GitHub! I'm an aspiring **Full-Stack Developer** with a passion fo
 ---
 
 ## 📫 Connect with Me  
-- **LinkedIn:** [Lucas Bareli](www.linkedin.com/in/lucas-bareli-384021293)  
-- **Email:** [lucasnareli@gmail.com](mailto:lucasnareli@gmail.com)  
+- **LinkedIn:** [Lucas Bareli](www.linkedin.com/in/lucas-bareli-384021293) 
+- **Email:** [lucasnareli@gmail.com]  
 
 ---
 
