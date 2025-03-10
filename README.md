@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm an aspiring **Full-Stack Developer** with a passion fo
 - 🌟 **Currently:** Working at **Bosch Brasil** as an Apprentice.  
 - 🎓 **Studying:** IT Management at **FATEC Campinas**.  
 - 💻 **Goal:** To become a versatile Full-Stack Developer.  
-- 🎯 **Future Vision:** Work as Product Owner in the projects **.  
+- 🎯 **Future Vision:** Work as Product Owner in the projects.  
 
 ---
 
