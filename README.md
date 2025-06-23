@@ -13,6 +13,8 @@ Welcome to my GitHub! I'm an aspiring **Full-Stack Developer** with a passion fo
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 ---
 
