@@ -1,50 +1,48 @@
-# 👋 Hello, I'm Lucas Bareli! 
+<h1 align="center">
+  Olá, eu sou o Lucas Bareli!
+  <img src="https://projectpokemon.org/images/normal-sprite/pikachu.gif" width="30px"/>
+</h1>
 
-Welcome to my GitHub! I'm an aspiring **Full-Stack Developer** with a passion for creating innovative solutions.  
-
----
-
-### 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+<div align="center">
+  <p>Bem-vindo ao meu GitHub! Sou um aspirante a <b>Desenvolvedor Full-Stack</b> com paixão por criar soluções inovadoras.</p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDcyNnJtaG56dGZtdDNoeDNmOGF3N3p0amV2bm9kNjU5NHMydGwwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoM5BawJ/giphy.gif" width="600px"/>
+</div>
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lucas-bareli-384021293)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:lucasnareli@gmail.com)  
+<div align="center">
+  <b>:hammer_and_wrench: Linguagens e Ferramentas</b>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,django,spring,angular,mysql,git,vscode&perline=6" />
+  </a>
+</div>
 
----
+<br>
 
-## 🚀 About Me  
-- 🌟 **Currently:** Working at **Bosch Brasil** as an Apprentice.  
-- 🎓 **Studying:** IT Management at **FATEC Campinas**.  
-- 💻 **Goal:** To become a versatile Full-Stack Developer.  
-- 🎯 **Future Vision:** Work as Product Owner.  
+<div align="center">
+  <h3>🚀 Sobre Mim & Contato</h3>
+  <p>
+    🎓 Cursando Gestão de TI na <b>FATEC Campinas</b> e trabalhando como Aprendiz na <b>Bosch Brasil</b>.<br />
+    🎯 Objetivo: Me tornar um Desenvolvedor Full-Stack versátil, com visão futura para atuar como Product Owner.<br />
+    🌱 Atualmente aprendendo conceitos avançados de <b>React</b> e construção de <b>APIs RESTful</b>.
+  </p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/lucas-bareli-384021293">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="mailto:lucasnareli@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
+    </a>
+  </p>
+</div>
 
----
+<br>
 
-## 💡 Skills & Tools  
-### 🖥️ Programming & Technologies  
-- **Languages:** Python, JavaScript, Java  
-- **Web Development:** HTML, CSS, React  
-- **Back-End:** Django, Spring Boot  
-- **Tools:** Git, VS Code  
-
-### 📈 Management & Collaboration  
-- **Project Management:** Trello, Jira  
-- **Version Control:** Git/GitHub  
-
----
-
-## 🌱 Currently Learning  
-- Advanced **React** concepts and modern front-end frameworks  
-- Building **RESTful APIs** and microservices  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico de Contribuição no Estilo Pac-Man" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg">
+</picture>
