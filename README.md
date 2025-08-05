@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>Welcome to my GitHub! I'm an aspiring <b>Full-Stack Developer</b> with a passion for creating innovative solutions.</p>
-  <img src="https://media.giphy.com/media/2aNMNAPUVqQe10a25V/giphy.gif" width="400px"/>
+  <img src="https://media.giphy.com/media/2aNMNAPUVqQe10a25V/giphy.gif](https://giffiles.alphacoders.com/218/218855.gif" width="400px"/>
 </div>
 
 ---
