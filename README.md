@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm an aspiring **Full-Stack Developer** with a passion fo
   <b>:hammer_and_wrench: Linguagens e Ferramentas</b>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,typescript,next,vue,flutter,fastapi,django,spring,angular,mysql,git,vscodej&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,typescript,next,vue,flutter,fastapi,django,spring,angular,mysql,figma,git,vscodej&perline=6" />
   </a>
 </div>
 
