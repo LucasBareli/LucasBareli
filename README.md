@@ -12,7 +12,7 @@
   <b>:hammer_and_wrench: Languages & Tools</b>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,typescript,next,vue,flutter,fastapi,django,spring,angular,mysql,figma,git,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,typescript,next,vue,flutter,fastapi,django,spring,angular,mysql,postgres,figma,git&perline=6" />
   </a>
 </div>
 
